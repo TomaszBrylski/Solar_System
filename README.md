@@ -3,7 +3,7 @@
 ![Conventer](Solar.gif)
 
 ### Link 🔗
-https://tomaszbrylski.github.io/Cup-of-Coffee/
+https://tomaszbrylski.github.io/Solar_System/
 ### Tech 💻
 - HTML
 - CSS
